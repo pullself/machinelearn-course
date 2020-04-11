@@ -1,2 +1,2 @@
-# machinelearn-course
+# machinelearning-course
 only homework
